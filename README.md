@@ -3,7 +3,7 @@ Allows to show marked and colored logs in Unity
 
 ![](https://i.imgur.com/8AwEzsN.png)
 
-DebugHelper.cs [GitHub](https://github.com/kir-avramenko/DebugLog-Helper/blob/master/DebugLogHelper/Assets/Shorka/DebugHelper/DebugHelper.cs)
+Open  [DebugHelper.cs](https://github.com/kir-avramenko/DebugLog-Helper/blob/master/DebugLogHelper/Assets/Shorka/DebugHelper/DebugHelper.cs)
 
-.unitypackage
-[.unitypackage](DebugLog-Helper/DebugLogHelper.unitypackage)
+Download
+[.unitypackage](https://github.com/kir-avramenko/DebugLog-Helper/blob/master/DebugLogHelper.unitypackage?raw=truee)
